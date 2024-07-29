@@ -6,4 +6,4 @@ I'm a quantitative ecologist with a life-long passion for translating integrativ
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-[![Bilgecan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilgecansen)](https://github.com/bilgecansen/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bilgecansen)](https://git.io/streak-stats)
