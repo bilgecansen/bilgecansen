@@ -1,9 +1,3 @@
 ## Hi there 👋
 
-I'm a quantitative ecologist with a life-long passion for translating integrative research into clear and actionable science and conservation products.  
-
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bilgecansen)](https://git.io/streak-stats)
+I'm a quantitative conservation ecologist with a life-long passion for translating integrative research into clear and actionable science and conservation products. My expertise is building statistical models to associate ecological responses with their environments and use these models to inform conservation management under global change. I have especially had the chance to work with exotic species that face unique conservation threats, such as the Egyptian vulture, Adélie penguin and emperor penguin. Currently, I'm building biodiversity models for benthic communities in the Arctic to assess their predictability and to provide guidance for the efficiency of Arctic monitoring programs.   
