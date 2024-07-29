@@ -2,7 +2,7 @@
 
 📈 I'm a **quantitative conservation ecologist** with a life-long passion for translating integrative research into clear and actionable science and conservation products. 
 
-🌍 My expertise is building statistical models to associate ecological responses with their environments and use these models to inform conservation management under global change. 
+🌍 My expertise is building statistical models to associate ecological responses with environmental change. I use these models to predict population trends and changes in community compositions, and also to inform conservation management under global change. 
 
 🕶️I have especially had the chance to work with exotic species that face unique conservation threats, such as **the Egyptian vulture**, **Adélie penguin** and **emperor penguin**. 
 
