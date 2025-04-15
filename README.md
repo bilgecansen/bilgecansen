@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-📈 I'm a **quantitative conservation ecologist** with a life-long passion for translating integrative research into clear and actionable science and conservation products. 
+📈 I'm a **quantitative ecologist** with a life-long passion for translating integrative research into clear and actionable science and conservation products. 
 
-🌍 My expertise is building statistical models to associate ecological responses with environmental change. I use these models to predict population trends and changes in community compositions, and also to inform conservation management under global change. 
+🌍 My research focuses on the development and application of quantitative tools to understand macroecological patterns of ecological predictability across a diverse set of taxa and landscapes. I seek to better understand the relationship between the underlying dynamics of ecological systems (intrinsic predictability) and model based forecast performance (realized predictability) to help forecasters make more informed and system specific decisions when building predictive models. I am especially keen to develop the emerging field of ecological predictability by synthesizing predictability research across multiple fields, such as physics and climate science. To this end, I use and develop state-of-the-art statistical methods across information theory, machine learning and Bayesian multi-level models. 
 
 🕶️I have especially had the chance to work with exotic species that face unique conservation threats, such as **the Egyptian vulture**, **Adélie penguin** and **emperor penguin**. 
 
